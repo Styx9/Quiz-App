@@ -12,4 +12,7 @@ Clean UI with Qt Style Sheets (.qss)
 Responsive layout and logo support
 
 Real-time questions from opentdb.com
-<img width="698" height="882" alt="image" src="https://github.com/user-attachments/assets/df4b111d-6e89-486a-ba01-b8d68f0d8eb3" />
+
+
+<img width="698" height="850" alt="image" src="https://github.com/user-attachments/assets/70e0bec0-4bc8-4d1d-b0c3-b3bc973e676e" />
+
