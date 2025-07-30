@@ -1,0 +1,36 @@
+QLabel#welcomeLabel {
+    color: #386641;
+    font-size: 40px;
+    font-style: Arial;
+    font-weight: bold;
+    padding-left: 20px;
+    qproperty-alignment: AlignCenter;
+}
+QWidget {
+    background-color: #FFF4A4;
+    padding: 5px;
+}
+QComboBox{
+    padding: 10px;
+}
+QPushButton {
+    background-color: #F97A00;
+    color: white;
+    padding: 10px;
+    font-size: 16pt;
+    border-radius: 20px;
+}
+QPushButton:hover{
+    background-color:#c96606
+}
+QLabel{
+    color: #386641;
+    font-size: 30px;
+    font-style: Arial;
+    font-weight: bold;
+    padding-left: 20px;
+    qproperty-alignment: AlignCenter;
+}
+QuizPage QLabel{
+    font-size: 20px;
+}
